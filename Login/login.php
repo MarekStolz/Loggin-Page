@@ -23,17 +23,12 @@
 
 		  <div class="mb-3">
 		    <label class="form-label">Email</label>
-		    <input type="email" 
-		           class="form-control"
-		           name="email"
-		           value="<?php echo (isset($_GET['email']))?$_GET['email']:"" ?>">
+		    <input type="email" class="form-control" name="email" value="<?php echo (isset($_GET['email']))?$_GET['email']:"" ?>">
 		  </div>
 
 		  <div class="mb-3">
 		    <label class="form-label">Password</label>
-		    <input type="password" 
-		           class="form-control"
-		           name="pass">
+		    <input type="password" class="form-control"name="pass">
 		  </div>
 		  
 		  <button type="submit" class="btn btn-primary">Login</button>
