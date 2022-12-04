@@ -38,7 +38,7 @@ if(isset($_POST['email']) &&
              if(password_verify($pass, $password)){
                  $_SESSION['id'] = $id;
                  $_SESSION['fname'] = $fname;
-
+                 $_SESSION['type_id'] = $type_id;
                  header("Location: ../home.php");
                  exit;
              }else {
