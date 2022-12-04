@@ -14,7 +14,6 @@ if (isset($_SESSION['id']) && isset($_SESSION['fname']) && isset($_SESSION['type
 </head>
 <body>
     <div class="main">
-    	
     	<div>
             <h3>Hello,<?php $_SESSION['fname']?> your role is <?=$_SESSION['type_id'] ?></h3>
             <a href="logout.php" class="alert">Logout</a>

@@ -117,3 +117,6 @@ input{
   .alert-danger{
 	color: rgb(235, 8, 8);
   }
+  footer{
+    margin-top: auto;
+}

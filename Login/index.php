@@ -17,7 +17,7 @@
 		    <?php } ?>
 
 		    <?php if(isset($_GET['success'])){ ?>
-    		<div class="alert alert-success" role="alert"> <?php echo $_GET['success']; ?>
+    		<div class="alert" role="alert"> <?php echo $_GET['success']; ?>
 			</div>
 		    <?php } ?>
 	
