@@ -1,4 +1,6 @@
+## Login page 
 ## Authors
-Marek Štolz
+Marek Štolz & Ondřej Jirchář
+
 
 
