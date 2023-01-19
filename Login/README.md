@@ -9,6 +9,6 @@ Email: user@gmail.com Password: user
 Web si také můžete zkusit na webu www.stolz.xf.cz
 ## Autoři
 Marek Štolz & Ondřej Jirchář
-https://codepen.io/studiojw/pen/ExEXyYZ
+
 
 
